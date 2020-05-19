@@ -1,0 +1,39 @@
+#backend 
+node_modules/
+express-backend/.env
+
+#front-end
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-frontend/node_modules
+/react-frontend/.pnp
+/react-frontend.pnp.js
+
+# testing
+/react-frontend/coverage
+
+# production
+/react-frontend/build
+
+#src files
+/react-frontend/src/body.html
+/react-frontend/src/main.html
+/react-frontend/src/serviceWorker.js
+/react-frontend/src/setupTests.js
+
+# misc
+/react-frontend/.env
+/react-frontend/.DS_Store
+/react-frontend/.env.local
+/react-frontend/.env.development.local
+/react-frontend/.env.test.local
+/react-frontend/.env.production.local
+
+/react-frontend/npm-debug.log*
+/react-frontend/yarn-debug.log*
+/react-frontend/yarn-error.log*
+
+.env
+Procfile
+/node_modules/

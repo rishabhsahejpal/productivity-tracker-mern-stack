@@ -1,0 +1,6 @@
+[submodule "productivity-app-backend"]
+	path = productivity-app-backend
+	url = https://github.com/rishabhsahejpal/productivity-app-backend.git
+[submodule "productivity-app-frontend"]
+	path = productivity-app-frontend
+	url = https://github.com/rishabhsahejpal/productivity-app-frontend.git
